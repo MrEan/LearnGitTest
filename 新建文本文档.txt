@@ -1,0 +1,18 @@
+添加凭证编号连接：
+	1、项目支出申请单付款明细查询：Fin/Financialanalysis/xmzcsqdfkmxcx.cpt
+	2、项目支出申请单查询：Fin/ProjectFormsInfo/ProjectPaymentInfo.cpt
+	3、借款申请单查询：Fin/ProjectFormsInfo/ProjectLoanInfo.cpt
+	4、现金还款申请单查询：Fin/ProjectFormsInfo/ProjectLoanReturnedInfo.cpt
+	5、项目收款申请单查询：Fin/ProjectFormsInfo/ProjectReceiptInfo.cpt
+	6、项目退款申请单查询：Fin/ProjectFormsInfo/ProjectRefundInfo.cpt
+	7、项目计划收支过账明细查询：Fin/ProjectFormsInfo/ProjectIncomeDetail_modify.cpt
+	8、发票开票申请单查询：Fin/ProjectFormsInfo/InvoiceToCustomerInfo.cpt
+	9、发票退票申请单查询：Fin/ProjectFormsInfo/InvoiceReturnedInfo.cpt
+	9、发票登记查询：Fin/ProjectFormsInfo/InvoiceFromSuplierInfo.cpt
+	10、银行回单导入查询：Fin/ProjectFormsInfo/BankAccountImportInfo.cpt
+	11、内部买汇申请单查询：Fin/ProjectFormsInfo/BankAccountChangeInfo.cpt
+	12、待认领退款申请单查询：Fin/ProjectFormsInfo/BankAccountReturnedInfo.cpt
+	13、项目支出申请单支出明细查询：Fin/Financialanalysis/xmzcsqdzcmxcx.cpt
+	
+	
+	
